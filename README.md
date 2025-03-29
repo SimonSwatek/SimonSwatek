@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @SimonSwatek
-- 👀 I’m interested in Ecology, Agriculture, Decision-Focused Research 
-- 🌱 I’m currently learning how to create and use probabilistic models to support agricultural decision making 
+Hi, I’m @SimonSwatek
+I am an agricultural scientist and landscape ecologist. 
+I’m interested in Ecology, Agriculture and Decision-Focused Research.
+Through my PhD research, I get to explore spatio-temporal heat and drought stress dynamics in Central European forest ecosystems.
 
 <!---
 SimonSwatek/SimonSwatek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
